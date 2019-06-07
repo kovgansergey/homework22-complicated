@@ -740,6 +740,7 @@ body {
 
 .footer__map {
   width: 50%;
+  height: 640px;
   position: absolute;
   left: 0;
 }
